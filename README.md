@@ -1,7 +1,7 @@
 ## tan-blog--个人博客网站
 
 
-前台技术栈：Vue3 \+ TypeScript + ElementPlus + Pinia + VueRouter + Sass
+前台技术栈：Vue3 \+ TypeScript + ElementPlus + Pinia + VueRouter + Scss
 
 后台技术栈：Node.js + Koa + Mysql + Sequelize ORM
 
