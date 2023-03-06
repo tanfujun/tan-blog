@@ -7,13 +7,19 @@
 
 
 
+本博客网站目前处于开始阶段，后面慢慢更新中....
+
+觉得还行可以star一下~
+
+
+
 #### 博客预览地址：[点击这里预览](http://47.106.39.120/#/home)
 
 
 
 ## 本博客所使用的markdown插件
 
-[mavonEditor v3.0.0]: https://github.com/hinesboy/mavonEditor
+[mavonEditor v3.0.0](https://github.com/hinesboy/mavonEditor)
 
 官方安装文档：
 | Vue2 | [![npm](https://img.shields.io/npm/v/mavon-editor/latest.svg)](https://www.npmjs.com/package/mavon-editor/v/latest) |
